@@ -1,0 +1,28 @@
+{
+  "name": "docs-gcp",
+  "description": "Documentation utilisateur de l'application GCP",
+  "author": {
+    "name": "Simon Micheneau",
+    "email": "contact@simon-micheneau.fr"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horyzone/docs-gcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Horyzone/docs-gcp/issues"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.4.0",
+    "@vuepress/plugin-medium-zoom": "^1.4.0",
+    "vuepress": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
