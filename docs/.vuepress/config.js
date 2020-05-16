@@ -1,7 +1,7 @@
 module.exports = {
   base: '/gcp/',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://raw.githubusercontent.com/Horyzone/docs-gcp/master/docs/.vuepress/public/assets/img/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: 'https://raw.githubusercontent.com/Horyzone/docs-gcp/master/docs/.vuepress/public/assets/img/favicon.png' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: 'Documentation GCP' }],
     ['meta', { name: 'og:description', content: 'Documentation GCP - Documentation du Gestionnaire de Congés Professionnel.' }],

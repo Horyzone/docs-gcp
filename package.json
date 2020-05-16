@@ -6,6 +6,7 @@
     "email": "contact@simon-micheneau.fr"
   },
   "license": "MIT",
+  "homepage": "https://horyzone.github.io/gcp/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Horyzone/docs-gcp.git"
